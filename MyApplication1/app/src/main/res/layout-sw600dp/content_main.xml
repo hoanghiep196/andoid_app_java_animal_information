@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <!-- Use a GridLayout to arrange images in a grid -->
+    <GridLayout
+        android:id="@+id/gridLayout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:alignmentMode="alignMargins"
+        android:columnCount="3"
+        android:rowCount="3"
+        android:columnOrderPreserved="false"
+        android:orientation="horizontal"
+        android:padding="16dp">
+        <!-- Add ImageViews for animal icons -->
+        <RelativeLayout android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_columnSpan="1"
+            android:layout_rowSpan="1"
+            android:layout_margin="8dp">
+        <ImageView android:id="@+id/imageViewAnimal1"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:layout_rowSpan="1"
+            android:layout_columnSpan="1"
+            android:layout_margin="8dp"
+            android:scaleType="centerCrop"
+            android:src="@drawable/turtle_view1" />
+        <!-- Repeat for other animal images -->
+            <ImageView android:id="@+id/imageViewAnimal2"
+                android:layout_width="100dp"
+                android:layout_height="100dp"
+                android:layout_rowSpan="1"
+                android:layout_columnSpan="1"
+                android:layout_margin="8dp"
+                android:scaleType="centerCrop"
+                android:src="@drawable/ladybug_view1" />
+        <!-- Add more ImageViews for other animals -->
+
+            <ImageView android:id="@+id/imageViewAnimal3"
+                android:layout_width="100dp"
+                android:layout_height="100dp"
+                android:layout_rowSpan="1"
+                android:layout_columnSpan="1"
+                android:layout_margin="8dp"
+                android:scaleType="centerCrop"
+                android:src="@drawable/pig_view1" />
+            <ImageView android:id="@+id/imageViewAnimal4"
+                android:layout_width="100dp"
+                android:layout_height="100dp"
+                android:layout_rowSpan="1"
+                android:layout_columnSpan="1"
+                android:layout_margin="8dp"
+                android:scaleType="centerCrop"
+                android:src="@drawable/elephant_view_" />
+            <ImageView android:id="@+id/imageViewAnimal5"
+                android:layout_width="100dp"
+                android:layout_height="100dp"
+                android:layout_rowSpan="1"
+                android:layout_columnSpan="1"
+                android:layout_margin="8dp"
+                android:scaleType="centerCrop"
+                android:src="@drawable/dolphin_view3" />
+            <ImageView android:id="@+id/imageViewAnimal6"
+                android:layout_width="100dp"
+                android:layout_height="100dp"
+                android:layout_rowSpan="1"
+                android:layout_columnSpan="1"
+                android:layout_margin="8dp"
+                android:scaleType="centerCrop"
+                android:src="@drawable/dog_view1" />
+            <ImageView android:id="@+id/imageViewAnimal7"
+                android:layout_width="100dp"
+                android:layout_height="100dp"
+                android:layout_rowSpan="1"
+                android:layout_columnSpan="1"
+                android:layout_margin="8dp"
+                android:scaleType="centerCrop"
+                android:src="@drawable/bird_view1" />
+            <ImageView android:id="@+id/imageViewAnimal8"
+                android:layout_width="100dp"
+                android:layout_height="100dp"
+                android:layout_rowSpan="1"
+                android:layout_columnSpan="1"
+                android:layout_margin="8dp"
+                android:scaleType="centerCrop"
+                android:src="@drawable/duck_view2" />
+            <ImageView android:id="@+id/imageViewAnimal9"
+                android:layout_width="100dp"
+                android:layout_height="100dp"
+                android:layout_rowSpan="1"
+                android:layout_columnSpan="1"
+                android:layout_margin="8dp"
+                android:scaleType="centerCrop"
+                android:src="@drawable/chuonchuon_view_1" />
+        </RelativeLayout>
+    </GridLayout>
+</ScrollView>

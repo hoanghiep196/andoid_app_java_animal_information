@@ -1,0 +1,259 @@
+<resources>
+    <string name="app_name">ANIME</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">Anime</string>
+    <string name="fragment_dragonbutterfly">Loài chuồn chuồn</string>
+    <string name="fragment_bird2">Loài chim</string>
+    <string name="fragment_elephant1">Loài voi</string>
+    <string name="fragment_ladybug">Loài bọ cam</string>
+    <string name="fragment_pig">Loài heo nhà</string>
+    <string name="fragment_turtle">Loài rùa biển</string>
+    <string name="fragment_bird">Loài chim</string>
+    <string name="fragment_duck">Loài vịt</string>
+    <string name="fragment_dolphin">Loài cá heo</string>
+    <string name="fragment_dog">Loài chó</string>
+    <string name="elephant">
+        <b>Voi</b>\n
+        Voi Việt Nam là quần thể voi sinh sống, phân bố tại Việt Nam, gắn bó với đời sống, lịch sử, văn hóa của cộng đồng các dân tộc Việt Nam. Voi Việt Nam thuộc nhóm voi châu Á và là loài động vật từng phân bố khắp các vùng miền ở Việt Nam, gắn bó với sản xuất, chiến đấu và văn hóa của các dân tộc ở Việt Nam.
+        Tuy nhiên, hiện tại voi hoang dã đang trong tình trạng nguy ngập và chỉ hay xuất hiện ở Tây Nguyên, đặc biệt là Đắk Lắk.\n
+        <b>Voi trong sử sách</b>\n
+        Trong truyền thuyết đầu tiên của người Việt có nhắc đến Voi chín ngà, là sính lễ mà Vua Hùng bắt buộc khi Sơn Tinh và Thủy Tinh cầu hôn Mị Nương. Sử sách nhắc đến voi và thuần dưỡng voi là từ thời Hai Bà Trưng chống quân Hán và bà Triệu, họ đã dùng voi vào trong chiến trường đánh quân Ngô (con voi trắng một ngà). Voi được các triều đại phong kiến Việt Nam sử dụng rất nhiều vào trong quân sự lẫn dân sự, voi nhà và voi rừng chiếm tỉ lệ nhiều. Đến thời Quang Trung, voi là một trong những chiến binh cừ khôi nhất, giúp nhà vua đánh Chúa Trịnh dẹp Chúa Nguyễn, đánh ngoại bang quân Thanh, quân Xiêm.\n
+        Vào cuối thời nhà Nguyễn triều Bảo Đại thì có soạn giả Tây phương ghi lại một số quan sát về voi của người Việt như người Việt chia voi thành hai loại, voi lớn gọi là "bõ bành", voi nhỏ là "bõ chóc".[1] Voi chiến từ những triều vua trước thì khi đã lập công ngoài chiến trận thì được đính một vòng bằng bạc vào cặp ngà.[2] Voi của vua được nuôi dưỡng tử tế và có đặt tên. Nhà vua thường dùng voi cưỡi khi đi săn và thích nhất con voi một ngà tên Một.\n
+        <b>Cách thuần dưỡng và nuôi voi</b>\n
+        Theo tác giả BlazeRicardo thì voi ở Đông Dương được săn bắt bằng ba cách. Xiêm và Lào thì dùng cách đóng một vòng rào bằng cây gỗ chắc chắn rồi lùa voi rừng vào nhốt lại. Cao Miên nhất là ở vùng Kompong Thom thì có lệ săn bắt voi vào mùa nước lớn, lùa voi bằng xuồng. Thợ săn dùng giáo nhọn đâm lùa voi. Cách này nguy hiểm hơn cả vì voi đau có thể tấn công, làm lật xuồng. Ở Việt Nam thì dùng thòng lọng để bắt voi.\n
+        Theo tường thuật của Blazé khi tháp tùng vua Bảo Đại ở La Ngà thì cuộc săn bắt đầu khi thợ săn cưỡi đoàn voi nhà ùa vào đàn voi rừng ngược hướng gió để khỏi bị phát giác. Voi nhà thì chia thành ba loại. Đầu cùng là voi dìu (tiếng Anh beater); kế đến là voi fighter, lạm dịch là voi thúc, sau cùng là captor, tức voi săn. Mỗi con voi nhà có nài cưỡi voi ngồi ở đầu voi điều khiển và một người phó ở cổ voi. Thợ săn chính thì cầm một cần dài khoảng 3 mét, đầu cần mắc thòng lọng nối với đoạn thừng dài 20-30 mét. Khi voi rừng bỏ chạy thì voi dìu được điều khiển tiến vào để voi rừng bớt hoảng sợ. Voi dìu không cần voi lớn, chỉ cần nhanh chân để chạy len vào và trấn an nhóm voi rừng. Nếu voi rừng chạy loạn vào bờ bụi rừng sâu thì sẽ dùng voi dìu đẩy theo hướng đồng trống có chực sẵn voi săn. Kế đến điều voi săn tiến vào dùng đầu ghì lấy hông voi rừng trong khi người thợ lấy cần dài móc thòng lọng vào chân sau của voi. Người phó trên lưng voi săn sau đó thả lỏng hoặc kéo chặt thừng để sao thừng không bị rối. Voi rừng khi bị thòng lọng ở chân thì dần chậm lại rồi bị đưa đến một gốc cây lớn. Người thợ phó liền nhảy xuống đất và mau chân cầm cuộn thừng chạy quanh gốc cây buộc voi rừng vào đấy. Voi thúc, tức những con voi lớn nhất lúc này mới tiến vào cản voi rừng không tấn công người buộc thừng vào gốc cây.\n
+        <b>Đặc điểm sinh học</b>\n
+        Voi Việt Nam cũng giống như Voi châu Á, cặp ngà voi dài. Thân cũng không lớn bằng các loài Voi châu Phi, ăn các loài thực vật chủ yếu trái cây, thân các cây mềm như cây chuối, v,v..\n
+        Vào các thời điểm này ngà voi các quản tượng không để dài cặp ngà nữa, thì việc để thích ứng môi trường như tự vệ kẻ thù, đào đất không thể được, các nguyên nhân cũng do sợ bị trộm cưa mất cặp ngà thì quản tượng phải cưa trước. Lông đuôi voi, dựa trên một niềm tin mù quáng, thường được dân gian cho rằng nó có thể trừ được ma quỷ, nên mọi người thường lấy lông đuôi voi làm các đồ trang sức cho riêng mình. Đổi lại lông đuôi voi bị người ta rứt trộm nhiều, voi ngày càng ít thì số lông ở phần đuôi cụt ngủn tìm được con nào đầy đủ lông ở phần đuôi là rất khó.\n
+        Ngày nay voi nhà có nhiều điều đáng lo ngại là việc sinh đẻ của loài voi trong thời gian qua khá khiêm tốn, nhất là đàn voi nhà có thể được coi là bị "vô sinh" vì nhiều lý do khác nhau, trong đó có một số nguyên nhân chính như: voi thiếu môi trường để sinh sống và sinh hoạt để di truyền nòi giống, voi bị khai thác phục vụ du lịch đến mức kiệt quệ, voi bị bệnh nhưng có giải pháp điều trị. Chiều dài con trưởng thành 2.9m. Cao 1.8m, đường kính thân 1,5m
+    </string>
+    <string name="dragonbutterfly">
+        <b>Chuồn chuồn</b>\n
+        Chuồn chuồn (Odonata) là một bộ côn trùng với khoảng 4.500 loài hiện được biết tới, chia thành hai nhóm lớn: chuồn chuồn ngô (Anisoptera) và chuồn chuồn kim (Zygoptera), khác nhau chủ yếu ở tư thế của cánh khi đậu và hình dạng của ấu trùng. Chuồn chuồn là động vật không có xương sống và thuộc lớp sâu bọ của ngành chân khớp\n
+        <b>Đặc điểm</b>\n
+        Chuồn chuồn có đầu tròn và khá lớn so với thân được bao phủ phần lớn bởi hai mắt kép lớn hai bên, các cặp chân có thể bắt mồi dễ dàng trong khi bay. Hai cánh hai bên giống nhau, dài, mỏng và gần như trong suốt, và cử động độc lập nhau. Hệ gân cánh rất dày, nhiều gân gạch ngang chằng chịt, phức tạp, cuối bờ trước của cánh thường có mắt cánh là bộ phận điều chỉnh triệt tiêu rung động cơ học, đảm bảo cho cánh vững chắc. Phần thân bụng dài. Cơ quan miệng kiểu nghiền, chân mảnh hướng về trước. Râu nhỏ, có hai đốt và một lông nhỏ dài phân đốt. Phần phụ hậu môn ở đốt bụng thứ ba, thứ tư (ở con đực), thứ hai (ở con cái); cơ quan sinh dục ở đốt bụng thứ chín; cơ quan giao cấu thứ sinh ở đốt thứ hai (ở con đực).\n
+        Loài chuồn chuồn lớn nhất thế giới hiện nay là loài chuồn chuồn kim khổng lồ Trung Mỹ, Megaloprepus coerulatus và Anax strenuus, một loài chuồn chuồn đặc hữu của quần đảo Hawaii. Trong quá khứ, đã từng có loài chuồn chuồn với sải cánh dài 60 cm,hóa thạch của nó có niên đại 285 triệu năm.\n
+        Có khoảng 4.500 loài hiện được biết đến. Ở Việt Nam, trên 500 loài. Phần lớn các loài chuồn chuồn là côn trùng có ích, là thiên địch ăn thịt nhiều loài sâu hại cây trồng và ruồi, muỗi.\n
+        <b>Môi trường sống</b>\n
+        Chuồn chuồn là côn trùng biến thái một nửa. Thiếu trùng chuồn chuồn sống trong nước và có tên là con cơm nguội (còn gọi là con mày mạy), tùy vào khu vực mà nó còn nhiều tên gọi khác như chăn mày, khi trưởng thành thì sống trên cạn. Do vậy, người ta thường thấy các con chuồn chuồn trưởng thành sống gần các đầm hay ao hồ. Tuy nhiên cũng có nhiều loài sống cách xa môi trường nước.\n
+        <b>Sinh sản, vòng đời</b>\n
+        Trứng chuồn chuồn được đẻ vào mặt nước hoặc trên cành, lá thủy sinh gần ao, hồ, và các khu vực ẩm ướt hoặc trong mô cây ở nước, và nở thành tiền ấu trùng sống bằng các chất dinh dưỡng có trong trứng. Sau đó chúng tiếp tục biến thái thành thiếu trùng với khoảng 9-14 lần lột xác (ở hầu hết các loài), và trở thành loài ăn thịt tham lam đối với các loài sinh vật sống trong nước, kể cả những loài cá con. Hô hấp bằng mang. Thiếu trùng tiếp tục biến thái và lột xác, thường vào những lúc chập choạng hoàng hôn, và tiếp tục phát triển thành loài biết bay, tuy nhiên màu sắc vẫn chưa hình thành. Những côn trùng này sau đó biến thành các con trưởng thành có khả năng sinh sản. Con đực có một cơ quan nằm gần phía sau của ngực, bên trong có chứa túi tinh; chúng giao cấu bằng cách dùng các móc nằm ở phía đuôi của thân bụng con đực để giữ con cái ở phía sau đầu; con cái uốn cong thân bụng về phía trước để đón cơ quan giao cấu của con đực và nhận tinh. Còn nếu chưa tìm ra được chỗ phù hợp, chúng sẽ dùng cách khác để đẻ trứng và giao phối.\n
+        <b>Lịch sử</b>\n
+        Chuồn chuồn đã từng được xếp cùng với các loài phù du (Ephemeroptera) và một số bộ khác vào lớp Côn trùng cánh cổ (Palaeoptera), tuy nhiên cách sắp xếp này có vẻ như cận ngành. Đặc tính mà chuồn chuồn chia sẻ với phù du là bản chất cử động và điều khiển của bộ cánh (xem chi tiết tại bay (côn trùng)).\n
+        Cũng có một thời kỳ người ta xếp Anisoptera thành một bộ phụ (phân bộ) bên cạnh một bộ phụ thứ ba, Anisozygoptera (chuồn chuồn cổ). Tuy nhiên, Anisoptera hiện được hạ cấp xuống thành một cận bộ thuộc bộ phụ Epiprocta sau khi người ta phát hiện ra rằng Anisozygoptera thực chất là một nhóm cận ngành bao gồm hầu hết các nhánh đã tuyệt chủng tại nhiều thời điểm trong quá trình tiến hóa của Anisoptera (Lohmann 1996, Rehn 2003).\n
+    </string>
+    <string name="ladybug">
+        <b>Bọ rùa</b>\n
+        <b>Bọ rùa</b> hay <b>Cánh cam</b> là một họ trong bộ cánh cứng (Coleoptera) thuộc lớp sâu bọ (Insecta). Danh pháp hai phần của họ này là Coccinellidae do Pierre André Latreille đặt ra vào năm 1807.[1] Bọ rùa gồm tới trên 6000 loài khác nhau đã được mô tả, phân bố rộng khắp trên toàn thế giới, đặc biệt phong phú ở vùng nhiệt đới, trong đó có Việt Nam.[2]\n
+        Thuật ngữ "coccinellidae" có nguồn gốc từ tiếng Latin coccineus có nghĩa là "đỏ tươi".[3] Hậu tố (đuôi tên) -lidae thường dùng trong phân loại cấp họ.\n
+
+        Bọ rùa có hình thái đặc trưng là hình bán cầu trông giống như một con rùa tý hon, đường kính chỉ khoảng 5–6 mm, với đầy đủ đặc điểm của loài cánh cứng thuộc lớp sâu bọ (hình 1). Bọ rùa thường có màu sặc sỡ nổi bật là đỏ (vì thế mới gọi là coccineus), cam hoặc vàng với các đốm xẫm màu trên mặt lưng của cánh.[4]\n
+        Bọ rùa là nhóm côn trùng đa thực, ăn được nhiều loại thức ăn khác nhau. Về mặt này, người ta chia chúng thành hai nhóm là bọ rùa ăn thịt và bọ rùa ăn thực vật. Bọ rùa ăn thực vật là nhóm phá hoại cây trồng khá nhiều ở Việt Nam. Tuy nhiên, bọ rùa ăn thịt lại được coi là "bạn của nhà nông" bởi thức ăn của chúng là các loài sâu bọ kí sinh gồm rệp vừng (Aphidae) và rệp sáp.[5][6]. Bọ rùa ăn thịt có quá trình biến thái hoàn toàn, nhưng cả sâu non (giai đoạn ấu trùng) và trưởng thành đều chỉ ăn thịt, do đó một con bọ rùa ở bất kỳ giai đoạn nào nói trên đều cũng tiêu diệt được rệp cây. Một bọ trưởng thành mỗi ngày có thể ăn được đến hơn 100 con rệp cây. Do đó, người ta đã nuôi các loài bọ rùa thuộc nhóm này trên quy mô lớn để tiêu diệt rệp cây rất hiệu quả và không gây ô nhiễm môi trường và đảm bảo thực phẩm sạch trong trồng cam, trồng các loài cải quy mô lớn.\n
+        Bọ rùa sống nhiều ở vùng ôn đới, đặc biệt là châu Âu. Vào mùa xuân, rệp vừng từ trứng nở ra, bọ rùa cũng "thức giấc" sau kì trú đông, vì thế chúng có đủ lượng thức ăn dồi dào. Vì chúng phổ biến ở châu Âu, là sinh vật hữu ích, lại có vẻ ngoài đặc biệt, nên hình ảnh bọ rùa xuất hiện rất nhiều trong các chương trình giáo dục và giải trí, đặc biệt là truyền hình và internet. Hình ảnh bọ rùa dễ tìm, dễ vẽ nên một số nước ở vùng nhiệt đới tuy chẳng có bọ rùa cũng vẫn cứ sử dụng hình ảnh của bọ rùa vào chương trình giáo dục trẻ mầm non.\n
+        <b>Sinh sản</b>\n
+        Bọ rùa cái đẻ trứng ở mặt sau lá cây. Trứng hình bầu dục màu vàng, dài khoảng 1 đến 1,5 mm và bám chặt ở mặt ngoài lá cây. Một bọ rùa đẻ 10-20 trứng một lần, một đời có thể đẻ đến mấy ngàn trứng.\n
+        <b>Sinh trưởng</b>\n
+        Trứng sau 1-2 tuần sẽ nở ra ấu trùng. Vừa nở, ấu trùng đã ăn ngay vỏ trứng và các trứng khác không nở được. Sau đó, nó đi tìm các con rệp vừng để ăn. Ấu trùng này mình đầy lông lá, một ngày ăn khoảng 10 con rệp, càng lớn nó càng ăn nhiều. Qua ba lần lột xác và hoá nhộng, trong khoảng 1-2 tháng là thành trùng. Trong thời gian này, tối thiểu nó ăn tới hơn 1000 con rệp.\n
+        <b>Đa dạng</b>\n
+        Trên thế giới có đến 5.000 loài bọ rùa đã được miêu tả[7]. Bọ rùa nói chung là những động vật ăn thịt đối với các côn trùng thuộc bộ Hemiptera, như rệp và các côn trùng có vảy, mặc dù các thành viên của phân họ Epilachninae là động vật ăn cỏ, và chúng cũng có thể là dịch hại trong nông nghiệp (ví dụ bọ đậu Mexico). Chúng cũng ăn một số loại cây trồng và thực vật khác khi không có các loại thức ăn khác, làm cho chúng có thể trở thành dịch hại đối với nông dân và những người làm vườn.\n
+
+    </string>
+    <string name="dog">
+        <b>Chó</b>\n
+        Chó (Danh pháp khoa học: Canis lupus familiaris hoặc Canis familiaris; từ Hán Việt gọi là "cẩu" (狗), "khuyển" (犬) hoặc cầy, những chú chó con còn được gọi là "cún"), là một loài động vật thuộc chi Chó (Canis), tạo nên một phần tiến hóa của sói, đồng thời là loài động vật ăn thịt trên cạn có số lượng lớn nhất. Chó và sói xám thuộc nhóm chị em, giống như những loài sói hiện đại đều không có họ hàng gần đến những loài sói được thuần hóa đầu tiên, đồng nghĩa với tổ tiên gốc của chó đã bị tuyệt chủng.\n
+        Chó cũng là loài động vật đầu tiên được con người thuần hóa và đã được chọn giống qua hàng thiên niên kỷ với nhiều hành vi, khả năng cảm nhận và đặc tính vật lý. Loài vật này được sử dụng để giữ nhà hoặc làm thú chơi. Răng của chúng dùng để giết mồi, nhai thịt và gặm thịt, thỉnh thoảng để cắn nhau. Chó là loài động vật được nuôi nhiều trên thế giới, có thể trông coi nhà, chăn cừu, dẫn đường, kéo xe, cũng là thực phẩm giàu đạm. Chó giúp con người rất nhiều việc như trông nhà cửa, săn bắt, và được xem như là loài vật trung thành, tình nghĩa nhất với con người. Ngày nay, nhu cầu nuôi chó cảnh đang được phát triển nên những giống chó nhỏ như Fox, Chihuahua hoặc chó thông minh như Collie được nhiều người chơi quan tâm đến.\n
+        <b>Nguồn gốc</b>\n
+        Tổ tiên của loài chó bao gồm cả cáo và chó sói là một loài động vật có vú gần giống như chồn sinh sống ở các hốc cây vào khoảng 40 triệu năm trước. Còn loài chó như chúng ta thấy ngày nay được tiến hóa từ một loài chó nhỏ, màu xám. Vào cuối kỳ Băng hà, cách đây khoảng 40.000 năm, chó sói và người chung sống với nhau thành nhóm săn mồi theo bầy. Chó sói và người thường tranh nhau con mồi, thậm chí còn giết nhau. Nhưng hẳn là chó sói đã bắt đầu tìm bới những mẩu thức ăn thừa do con người bỏ lại. Con người đã thuần hóa chó sói con và qua lai giống nhiều thế hệ, chó sói tiến hóa thành chó nhà ngày nay.\n
+        <b>Thuần hóa</b>\n
+        Một con chó được thuần hóa được tìm thấy ở Oberkassel, Bonn, Đức, được xem là hóa thạch chó cổ nhất đã được chấp nhận. Các chứng cứ về ngữ cảnh, đồng vị, di truyền và hình thái cho thấy con chó này không phải là một con sói địa phương. Nó đã chết cách đây 14.223 năm và được tìm thấy được chôn cùng với một người đàn ông và một người phụ nữ. Cả ba người được rắc phấn màu đỏ hematite và chôn dưới những khối bazan lớn, dày. Con chó đã mất vì mắc phải bệnh cảm cúm chó. Mặc dù đã có mô tả về hóa thạch của các con chó thời kỳ cổ từ cách đây 30.000 năm, nhưng việc phân biệt chúng là chó hay sói vẫn gây tranh cãi do sự đa dạng hình thái giữa các con sói trong thời kỳ Pleistocen muộn.\n
+        Theo thông tin hiện có, chó được coi là loài động vật đầu tiên được thuần hóa trong thời kỳ của người săn bắn trước thời kỳ nông nghiệp. Dữ liệu di truyền cho thấy rằng tất cả các con chó cổ và hiện đại có nguồn gốc chung từ một quần thể sói cổ đã tuyệt chủng, khác với dòng họ sói hiện đại. Có một nhóm sói Pleistocen muộn được tìm thấy gần Thayngen ở Thụy Sĩ, được xếp vào một nhóm em gái của các di tích sói. Tổ tiên chung gần nhất của chó và sói được ước tính từ cách đây khoảng 32.100 năm. Điều này cho thấy rằng có thể có một con sói Pleistocen muộn tuyệt chủng đã là tổ tiên của chó, và sói hiện đại là họ hàng gần nhất của chó.\n
+        Chó là một ví dụ điển hình về quá trình thuần hóa động vật thông qua mối quan hệ đồng hành với con người. Trong suốt nhiều năm, những câu hỏi xoay quanh việc chó được thuần hóa lần đầu ở đâu và khi nào đã gặp nhiều khó khăn cho các nhà khoa học. Tuy nhiên, dữ liệu di truyền cho thấy quá trình thuần hóa chó đã bắt đầu từ khoảng 25.000 năm trước đây, trong một hoặc nhiều quần thể sói tại châu Âu, vùng Bắc Cực cao hoặc Đông Á. Một nghiên cứu vào năm 2021 cũng chỉ ra rằng chó đã được thuần hóa ở Siberia cách đây khoảng 23.000 năm bởi người Siberia Bắc cổ đại, sau đó lan rộng từ phía đông sang châu Mỹ và từ phía tây qua châu Á.\n
+        <b>Các giống chó</b>\n
+        Chó là loài động vật có sự biến đổi lớn nhất trên Trái đất, với khoảng 450 giống chó được công nhận trên toàn cầu. Trải qua quá trình lựa chọn của con người, trong thời kỳ Victoria, đã phát triển các giống chó hiện đại, dẫn đến sự đa dạng về diện mạo. Hầu hết các giống chó đã được phát triển trong khoảng 200 năm qua từ một số nhóm nguồn gốc. \nTừ đó, chó đã trải qua sự thay đổi nhanh chóng về diện mạo và hình thành thành các giống chó hiện đại ngày nay nhờ vào sự lựa chọn nhân tạo của con người. Có sự biến đổi lớn về hình dạng hộp sọ, cơ thể và chiều dài cơ thể giữa các giống chó. Điều này tạo ra sự đa dạng diện mạo của chó vượt xa so với tất cả các loài động vật ăn thịt khác. Mỗi giống chó có những đặc điểm riêng về hình thái, bao gồm kích thước cơ thể, hình dạng hộp sọ, hình dạng đuôi, loại lông và màu sắc. Ngoài ra, chó còn có các đặc điểm hành vi đa dạng như bảo vệ, chăn dắt, săn bắn, lấy về và phát hiện mùi. Chúng cũng có những đặc điểm cá nhân khác nhau như hành vi xã hội, táo bạo và hung dữ, cho thấy sự đa dạng về chức năng và hành vi của chó. \n Với sự đa dạng diện mạo và chức năng, chó đã trở thành loài ăn thịt phổ biến nhất trên toàn thế giới. Chúng đã phân bố rộng khắp và trở thành một phần không thể thiếu trong cuộc sống của con người. Ví dụ điển hình về sự phân tán này là sự hiện diện của nhiều giống chó hiện đại thuộc dòng châu Âu trong thời kỳ Victoria. \n
+        <b>Đặc điểm</b>\n
+        Các giác quan như thị giác, thính giác và khứu giác phát triển mạnh: Chó có mắt to, tai dựng và mũi nhạy, nhờ đó chúng có thể theo dấu con mồi thành công, dù là săn đơn độc hay theo bầy. Tất cả các loài chó trừ chó bụi rậm Nam Mỹ đều có chân dài thích nghi với chạy nhanh khi săn đuổi mồi. Chó là loài "đi bằng đầu ngón chân" và có các bàn chân đặc trưng, năm ngón ở chân trước và bốn ngón ở chân sau. Đôi khi có trường hợp chó nhà có năm ngón ở chân sau (móng thứ năm gọi là móng huyền). Chó rừng có đuôi dài, lông dày, thường đồng màu và không có đốm sọc.\n
+        Thời gian mang thai trung bình của chó kéo dài khoảng 60 đến 62 ngày, có thể sớm hơn hoặc kéo dài đến 65 ngày. Lúc mới ra đời, chó con không có răng nhưng chỉ sau 4 tuần tuổi đã có thể có 28 chiếc răng. Giống như tất cả các động vật có vú, sau khi con non được sinh ra con mẹ cho con non bú và chăm sóc con non vài tháng, với sự giúp đỡ của các thành viên khác trong gia đình, lúc này con mẹ sẽ trở nên hung dữ. Bộ hàm đầy đủ của loài thú này là 42 chiếc.\n
+        Mắt chó có đến 3 mí: một mí trên, một mí dưới và mí thứ ba nằm ở giữa, hơi sâu vào phía trong, giúp bảo vệ mắt khỏi bụi bẩn. Chó phân biệt vật thể đầu tiên là dựa vào chuyển động sau đó đến ánh sáng và cuối cùng là hình dạng. Vì thế thị giác của chúng rất kém, chó có thể nhìn thấy màu lam, màu vàng, nhưng không phân biệt được đỏ và lục. Cụ thể thì bên trong mắt của chó có hai loại tế bào hình nón có thể cảm nhận màu sắc, trong khi ở người là ba. Bù lại, chúng có thể quan sát khá rõ trong đêm tối.\n
+        Tai của chúng rất thính, chúng có thể nhận biết được 35.000 âm rung chỉ trong một giây. Khứu giác của chúng cũng rất thính như tai. Người ta có thể ngửi thấy mùi thức ăn ở đâu đó trong nhà bếp nhưng chó thì có thể phân biệt từng gia vị trong nồi, thậm chí những chú chó săn còn tìm ra những cây nấm con nằm sâu trong rừng, vì chúng có thể phân biệt gần 220 triệu mùi khác nhau. Với mỗi con chó, sống mũi và nếp nhăn trên mũi sẽ tạo ra những đường vân độc nhất - gọi là vân mũi, là thứ giúp nhận định danh tính của chúng.\n
+        Não chó rất phát triển. Trí tuệ của loài chó có thể tương đương với một đứa trẻ 2 tuổi. Não bộ của chó có tiết ra oxytocin khi tương tác với con người và đồng loại. Điều này cũng giống như phản ứng của não người khi được ôm hoặc hôn. Có thể thấy vào mùa đông lạnh, thỉnh thoảng chó hay lấy đuôi che cái mũi ướt át, đấy là cách chúng giữ ấm cơ thể cho mình. Thân nhiệt của chó là 38°C. Chó có đến 2 lớp lông: lớp bên ngoài dễ thấy, còn lớp lót bên trong giúp cho chúng giữ ấm, khô ráo trong nhũng ngày mưa rét, thậm chí còn có nhiệm vụ "hạ nhiệt" trong những ngày oi bức.\n
+        Về sức khỏe, người ta đã tính được rằng: chó 1 năm tuổi tương ứng với người 16 tuổi. Chó 2 tuổi tương ứng với người 24 tuổi, chó 3 năm tuổi - người 30, và sau đó cứ thêm một năm tuổi chó bằng 4 năm tuổi người. Một số thức ăn thông thường của con người và hộ gia đình có thể gây độc cho chó, như Sô-cô-la, hành và tỏi, nho và nho khô, mắc ca, xylitol cũng như nhiều loài thực vật và chất liệu có thể gây ngộ độc khác. Các dấu hiệu ngộ độc có thể là nôn mửa nhiều, ngất hoặc thậm chí tử vong. \n
+    </string>
+    <string name="pig">
+        <b>Lợn nhà</b>\n
+        <b>Lợn nhà</b> hay <b>heo nhà</b> là một giống loài được thuần hóa từ loài lợn rừng, được chăn nuôi để cung cấp thịt. Hầu hết lợn nhà có lớp lông mỏng trên bề mặt da. Lợn nhà thường được cho rằng là một phân loài từ tổ tiên hoang dã của chúng là lợn rừng, trong trường hợp này chúng được đặt tên sinh học là Sus scrofa domesticus. Một số nhà phân loại học cho rằng lợn nhà là một loài riêng và gọi tên chúng là Sus domesticus, và lợn rừng là S. scrofa. Lợn rừng đã quần hợp với con người cách đây 13.000–12.700 năm. Những con lợn nhà thoát khỏi nơi nuôi dưỡng đã trở về với cuộc sống hoang dã ở một số nơi trên thế giới (ví dụ, New Zealand) và gây ra một số hiểm họa môi trường như là loài gây hại .\n
+        <b>Phân loại</b>\n
+        Lợn thuần hóa hầu hết được xem là một phân loài của loài tổ tiên hoang dã của chúng, Sus scrofa theo Carl Linnaeus năm 1758, nên trong trường hợp này nó có tên chính thức là Sus scrofa domesticus.  Năm 1777, Johann Christian Polycarp Erxleben xếp lợn thuần hóa là một loài độc lập với loài hoang dã, và được đặt tên là Sus domesticus, hiện vẫn được một số nhà phân loại học sử dụng.\n
+        <b>Nguồn gốc</b>\n
+        Dấu hiệu khảo cổ cho thấy lợn (heo) được thuần hóa từ loài hoang dã từ rất sớm vào khoảng 13.000–12.700 TCN ở Cận Đông trong thung lũng Tigris được quản lý ở dạng hoang dã theo cách tương tự chúng được người New Guine chăn hiện nay. Các loài lợn (heo) khác đã được xác định sớm hơn 11.400 TCN ở Síp, chúng phải được du nhập từ đất liền tức là chúng được thuần hóa trong đất liền. Cũng có sự thuần hóa riêng biệt ở Trung Quốc diễn ra cách nay 8000 năm.\n
+        Trước đây, các nhà khảo cổ học dựa vào những di chỉ khảo cổ (chủ yếu là xương sọ) đã cho rằng lợn được thuần hóa vào khoảng 9000 năm về trước ở vùng mà ngày nay thuộc miền Đông Thổ Nhĩ Kỳ hoặc cùng khoảng thời gian này tại Trung Quốc.\n
+        Nhưng theo một nghiên cứu được tiến hành với sự hợp tác giữa các nhà di truyền học Mỹ và Thụy Điển, trong đó phân tích xu hướng phân bố và đồng dạng DNA của các giống lợn (700 con) trên thế giới, tổ tiên của lợn ngày nay được xác định là lợn rừng và quê hương của lợn rừng nguyên thủy này chính là vùng Đông Nam Á ngày nay. Sau khi được thuần hóa ở Đông Nam Á, lợn theo con người đến các vùng khác của lục địa Á Âu (Eurasia) và ra các đảo Thái Bình Dương. Lợn được tiếp tục thuần hóa nhiều lần ở nhiều vùng tại Trung Quốc, vùng Cận Đông và châu Âu.
+        Một nghiên cứu di truyền đã phân tích DNA của các giống lợn thuộc các hải đảo Thái Bình Dương và đặc biệt là lợn không lông ở Vanuatu, các nhà nghiên cứu Úc và Mỹ khẳng định rằng lợn tại các hải đảo này cũng xuất phát và được thuần hóa từ lục địa Đông Nam Á (đặc biệt là từ Việt Nam) khoảng 3000 năm trước đây. Sau đó, chúng theo con người "di cư" ra khỏi lục địa và đến các hải đảo như Vanuatu và Lưu Cầu. Ngoài ra, các giống lợn tại các hải đảo này cũng có "hồ sơ" DNA rất giống với lợn ở Âu châu.\n
+        Ước tính về thời điểm thuần hóa và di cư của lợn nêu trên khá phù hợp với các di chỉ khảo cổ tìm thấy ở Việt Nam. Theo các di chỉ này thì nghề chăn nuôi lợn ở Việt Nam được phát triển khá vào thời Hùng Vương. Các di chỉ khảo cổ học thuộc thời kì hậu Đồ Đá Mới (tức khoảng 8000 đến 3000 năm trước đây) ở khu vực Phùng Nguyên, Đồng Đậu và Hoa Lộc có nhiều xương cốt các con vật nuôi trong nhà như lợn, chó, trâu bò nuôi, gà, vịt... \nTại di chỉ Đồng Đậu, tỉ lệ xương lợn trong tầng văn hóa ở đây cao hơn xương lợn rừng và các gia cầm.\n
+        <b>Tên gọi</b>\n
+        Phương ngữ miền Bắc gọi là lợn trong khi miền Trung và miền Nam gọi là heo.\n
+        Ngoài ra tiếng Việt còn có tên gọi riêng:\n
+        <b>Lợn giống</b> hay <b>heo nọc</b> : Lợn đực dùng gây giống.\n
+        <b>Lợn sữa</b>: Lợn con dưới 1 tháng tuổi, trước khi cai sữa\n
+        <b>Lợn nái</b>: Lợn cái nuôi dùng để sinh sản.\n
+        <b>Lợn sề</b>: lợn nái đã sinh đẻ nhiều lứa.\n
+        <b>Chăn nuôi</b>\n
+        Ở một số nước phát triển và đang phát triển, lợn thuần hóa là loài bản địa thường được nuôi thả ngoài trời hoặc trong chuồng. Ở một số vùng lợn được thả tìm thức ăn trong rừng có thể có người trông coi. Ở các quốc gia công nghiệp nuôi lợn thuần hóa được chuyển từ việc nuôi chuồng trại truyền thống sang hình thức nuôi công nghiệp. Nhờ đó mà có chi phí sản xuất thấp nhưng sản lượng lại cao
+    </string>
+    <string name="turtle">
+        <b>Rùa biển</b>\n
+        Rùa biển (Chelonioidea) là một liên họ bò sát biển trong bộ Rùa, sinh sống ở tất cả các đại dương trên thế giới ngoại trừ vùng Bắc Cực. Riêng loài rùa lưng phẳng thì chỉ được tìm thấy ở vùng biển phía bắc Australia.\n
+        <b>Mối đe dọa</b>\n
+        Trong số 7 loài rùa biển, tất cả đều được liệt kê trong Sách đỏ IUCN về các loài bị đe dọa hoặc là nguy cấp hay cực kỳ nguy cấp. Mặc dù rùa biển thường đẻ khoảng 100 trứng mỗi lần nhưng hầu như chỉ có một rùa con sống sót đến tuổi trưởng thành. Trong tự nhiên, rùa biển con thường bị đe dọa bởi các loài động vật ăn thịt bao gồm cá mập, gấu, báo đốm Bắc Mỹ, cáo hay các loài chim biển, và đặc biệt là con người.\n
+        Biến đổi khí hậu cũng có thể đe dọa đối với rùa biển bởi trứng rùa biển sinh ra cá thể đực hay cái phụ thuộc vào nhiệt độ.\n
+        Ngoài ra, rùa biển còn bị mối đe dọa đến từ việc săn bắt cá không đúng phương pháp, tình cờ làm nhiều con rùa biển mắc lưới, không ngoi lên hít thở không khí nên đã bị chết\n
+        <b>Vai trò</b>\n
+        Rùa biển đóng vai trò quan trọng trong hệ sinh thái đại dương và bãi biển. Trong các đại dương, các loại rùa biển, đặc biệt là rùa biển xanh, là một trong số ít các loài động vật ăn cỏ biển (còn có lợn biển) mọc ở các vùng đáy biển. Cỏ biển không được để mọc quá dài, và đây là khu vực cần thiết cho nhiều loài cá và sinh vật biển khác. Thảm cỏ biển mất đi sẽ gây ra một phản ứng dây chuyền, tác động tiêu cực đến đời sống của rất nhiều loài sinh vật biển và con người.\n
+        Bãi biển và cồn cát phụ thuộc vào các loài thực vật để chống lại sự xói mòn. Mỗi khi rùa biển vào đẻ trứng sẽ mang theo một lượng lớn các loài thực vật đại dương vào, cùng với đó là một nguồn dinh dưỡng cho thực vật cồn cát có trong trứng rùa khi rùa con nở ra. Hàng năm, rùa biển đẻ một số lượng trứng vô cùng lớn trên các bãi biển.\n
+        Cùng với đó, rùa biển cũng là loài bò sát có vai trò vô cùng quan trọng đối với con người. Chúng là một loại thực phẩm được ưa chuộng trên khắp thế giới với lượng protein rất lớn. Mai và yếm của rùa biển được sử dụng làm vật trang trí và sản xuất đồ gia dụng. Đối với con người, đặc biệt là những người khai thác đánh bắt thủy sản, vì rùa biển là sinh vật tạo môi trường cỏ biển tốt để nhiều loài sinh vật biển như cua, ốc, sò, cá, động vật giáp xác. Nhiều vùng thấy được tầm quan trọng của rùa biển đã vĩnh viễn không săn bắt rùa biển mà thay vào đó, những khu vực bảo tồn đã được thành lập, thu hút khách du lịch, phát triển kinh tế gắn liền với phát triển bền vững.\n
+    </string>
+    <string name="dolphin">
+        <b>Cá heo</b>\n
+        Cá heo là động vật có vú sống ở đại dương và sông nước có quan hệ mật thiết với cá voi. Có gần 40 loài cá heo thuộc 17 chi sinh sống ở các đại dương, số ít còn lại sinh sống tại một số con sông trên thế giới (sông Dương Tử, sông Amazon, sông Ấn, sông Hằng,...). Kích thước của cá heo có thể từ 1,2 m (4 ft) và 40 kg (90 lb) (Cá heo Maui), cho tới 9,5 m (30 ft) và 10 tấn (9,8 tấn Anh; 11 tấn Mỹ) (Cá heo đen lớn hay Cá voi sát thủ). Cá heo có trên toàn thế giới và thường cư ngụ ở các biển nông của thềm lục địa. Cá heo là loài ăn thịt, chủ yếu là ăn cá và mực. Họ cá voi đại dương Delphinidae là họ lớn nhất trong bộ cá heo và cũng là họ xuất hiện muộn nhất: khoảng 10 triệu năm trước đây, trong thế Trung Tân. Cá heo là một trong số những động vật thông minh và được biết đến nhiều trong văn hóa loài người nhờ hình thức thân thiện và thái độ tinh nghịch và hồ hởi với con người.\n
+        <b>Cá heo lai</b>\n
+        Năm 1933, ba con cá heo lạ xuất hiện ở bờ biển Ireland. Chúng được xem là các cá thể lai giữa cá heo Risso và cá heo mũi chai (Bottlenose) Việc lai tạo này sau đó được thực hiện lại với các cá heo được nuôi trong bể và cũng tạo ra con lai. Trong bể nuôi, người ta lai giữa cá heo mũi chai và cá heo răng cứng (Rough-toothed) và cũng tạo ra con lai. A Common-Bottlenose hybrid lives at SeaWorld California. Các loài lai khác cũng xuất hiện trong bể nuôi trên toàn cầu hoặc được xác nhận là có trên biển như cá heo Mũi chai với cá heo đốm Đại tây dương. Loài lai nổi tiếng nhất có tên gọi Wolphin lai giữa Cá heo ngụy sát thủ và cá heo Mũi chai. Wolphin có khả năng sinh sản. Hiện giờ có một cặp Wolphin tại Công viên hải sinh ở Hawaii; con đầu tiên được sinh ra năm 1985 do cá bố là Cá heo ngụy sát thủ và mẹ là Mũi chai. Người ta cũng thấy Wolphins tự do trên đại dương. \n
+        <b>Tiến hóa và giải phẫu</b>\n
+        Cá heo, cũng như cá voi, là hậu duệ của động vật có vú trên cạn, và tất có thể thuộc ngành Artiodactyl. Tổ tiên của cá heo hiện đại ngày này có thể đã xuống nước khoảng 50 triệu năm trước ở kỷ Eocene.\n
+        Xương cá heo hiện đại có hai xương chậu nhỏ hình cây gậy và được cho hai chân sau đã bị teo đi. Tháng 10 năm 2006, một cá heo Mũi chai lạ bị bắt ở Nhật Bản; con cá này có 2 vây nhỏ ở hai bên khe bộ phận sinh dục và được các nhà khoa học xác định là chân sau phát triển hình thành.\n
+        Cá heo có thân hình thoi suôn tối ưu cho bơi với tốc độ cao. Vây đuôi được sử dụng để tạo sức đẩy còn vây mang và toàn bộ đuôi để điều chỉnh hướng bơi. Vây lưng đối với các loài có vây lưng dùng để ổn định cơ thể khi bơi.\n
+        Dù mỗi loài có khác nhau, đặc điểm chung ở hầu hết cá heo là các sắc màu xám với bụng có màu nhạt hơn. Trên da cá heo thường có các đốm với màu tương phản và sắc độ khác.\n
+        Đầu cá heo có bộ phận phát sóng rada sinh học ở trán. Nhiều loài có hàm phát triển dài tạo thành một cái mỏ rõ rệt. Một số loài như loài Mũi chai có miệng hình cánh cung như một nụ cười cố định. Một vài loài khác có thể có tới 250 răng. Cá heo thở bằng một lỗ ở trên đầu. Não cá heo phát triển to và phức tạp và có cấu trúc khác hẳn hầu hết động vật có vú trên cạn.\n
+        Khác hầu hết động vật có vú khác, cá heo không có lông mao. Trừ một chút lông ở mỏ lúc sinh ra và mất đi nhanh chóng sau đó. Một ngoại lệ duy nhất là loài cá heo sông Boto, trên mỏ chúng mọc những sợi lông nhỏ rất dai dẳng.\n
+        Cơ quan sinh sản của cá heo được đặt ở phần dưới của cơ thể. Cá heo đực có 2 khe, một khe chứa dương vật và một khe chứa hậu môn. Cá heo cái chỉ có một khe sinh dục chứa cả âm vật và hậu môn. Khe chứa vú được đặt ở hai bên khe chứa bộ phận sinh dục.\n
+        Nghiên cứu mới đây tại Quỹ động vật có vú hải dương quốc gia Mĩ cho thấy cá heo là loài động vật duy nhất khác loài người mà cũng có biểu hiện tự nhiên của Bệnh béo phì loại 2 và đây là cơ sở để nghiên cứu kỹ hơn bệnh này cũng như phương hướng điều trị cho cả người và cá heo.\n
+        <b>Giác quan</b>\n
+        Hầu hết cá heo đều có nhãn lực tinh tường cả trong môi và ngoài môi trường nước và có thể cảm nhận các tần số cao gấp 10 lần tần số người có thể nghe được. Mặc dù cá heo có lỗ tai nhỏ ở hai bên đầu, người ta cho rằng trong môi trường nước, cá nghe bằng hàm dưới và dẫn âm thanh tới tai giữa qua những khe hở chứa mở trong xương hàm. Nghe cũng được dùng để phát sóng rada sinh học, một khả năng tất cả các loài cá heo đều có. Người ta cho rằng răng cá heo được dùng như cơ quan thụ cảm, chúng nhận các âm thanh phát tới và chỉ chính xác vị trí của đối tượng. Xúc giác của cá heo cũng rất phát triển, với đầu dây thần kinh phân bổ dày đặc trên da, nhất là ở mũi, vây ngực và vùng sinh dục. Tuy nhiên cá heo không có các tế bào thần kinh thụ cảm mùi và vì vậy chúng được tin là không có khứu giác. Cá heo cũng có vị giác và thể hiện thích một số thức ăn cá nhất định. Hầu hết thời gian của cá heo là dưới mặt nước, cảm nhận vị của nước có thể giúp cá heo ngửi theo cách là vị nước có thể cho cá biết sự hiện diện của các vật thể ngoài miệng mình.
+        Dù cá heo không có lông, chúng vẫn có nang lông giúp thực hiện một vài chức năng xúc giác. Người ta tin rằng, các sợi lông nhỏ trên mỏ của loài cá heo sông Boto hoạt động như một hệ thống xúc giác để bù đắp cho thị giác kém của loài này.\n
+    </string>
+    <string name="duck">
+        <b>Vịt</b>\n
+        Vịt là tên gọi phổ thông cho một số loài chim thuộc họ Vịt (Anatidae) trong bộ Ngỗng (Anseriformes). Các loài này được chia thành một số phân họ trong toàn bộ các phân họ thuộc họ Anatidae. Vịt chủ yếu là một loài chim nước, sống được ở cả vùng nước ngọt lẫn nước mặn, có kích thước nhỏ hơn so với những loài bà con của chúng là ngan, ngỗng, và thiên nga.\n
+        Vịt có chiếc mỏ dẹp rất lợi hại trong việc bắt các loài sinh vật nhỏ sống dưới nước như thực vật thủy sinh, côn trùng, các động vật lưỡng cư, động vật thân mềm có kích thước nhỏ như sò, hến, đặc biệt, hệ tiêu hóa mạnh giúp chúng có thể ăn được cả đỉa... ngoài ra, cỏ và các loài thực vật dưới nước cũng là thức ăn của loài vịt.\n
+        Tuy nhiên, đôi lúc, vịt cũng thường hay quấy nhiễu những "người họ hàng" xung quanh như chim lặn, gà nước, sâm cầm...\n
+        Phần lớn loài vịt thường không bay được vào thời kỳ thay lông, chúng phải nhờ những bà con bảo vệ, cung cấp đầy đủ thức ăn trong suốt thời gian này. Để an toàn hơn nữa, loài vịt có thói quen di trú trước khi bước vào gian đoạn thay lông.\n
+        Một vài loài vịt sinh sản ở những vùng ôn hòa, Bắc Cực, thường di cư; số khác ở vùng nhiệt đới cũng có thói quen này, tuy nhiên tất cả các loài vịt đều có tập tính này. Loài vịt đặc trưng ở Úc, nơi có những cơn mưa lớn thất thường, rất thích đến ở những hồ, ao nhỏ để tránh các cơn mưa nặng hạt.\n
+        Vịt lặn và vịt biển thường to hơn so với vịt dabbling nhưng điều đó cũng khiến chúng gặp khó khăn khi bay lên.\n
+        Vịt Dabbling thường kiếm mồi trên bề mặt nước, hoặc những vùng nước mà chúng có thể bắt mồi mà không phải lặn hoàn toàn trong nước; ngoài ra, trên đất liền cũng là nơi kiếm mồi của chúng. Loài vịt này còn có một tấm sừng nằm trong chiếc mỏ dẹp, giúp chúng có thể giữ con mồi và lọc nước ra ngoài.\n
+        Một số giống vịt độc đáo như vịt mào, vịt mỏ nhọn, vịt biển còn có khả năng bắt được các loài cá lớn.\n
+        Vịt Bắc Kinh (danh pháp khoa học: Anas platyrhynchos domestica, hoặc Anas peking) là một giống vịt nhà sử dụng chủ yếu để lấy thịt vịt và trứng vịt. Đây là giống vịt cho thịt nổi tiếng và được nuôi ở nhiều trên thế giới và là nguyên liệu để làm món ăn trứ danh vịt quay Bắc Kinh.\n
+        Ở nhiều khu vực trên thế giới, vịt hoang (bao gồm cả loài vịt đồng thoát ra khỏi sự nuôi nhốt), thường bị săn bắn, giăng bẫy để phục vụ cho con người (làm thực phẩm hoặc xuất hiện các môn thể thao giải trí).\n
+        Vịt nhà có rất nhiều giá trị kinh tế, chúng cung cấp cho con người thịt, trứng, lông. Ngoài ra, vịt còn được dùng để nuôi nhốt như một loài chim kiểng, hay phục vụ các màn xiếc trong Sở thú. Hầu hết các loài vịt đều được thuần hóa từ loài vịt cổ xanh (Anas platyrhynchos) ở vùng Mallard. Nhiều loài vịt ngày nay có kích cỡ lớn hơn so với thủy tổ của chúng (chiều dài từ cổ đến đuôi của chúng vào khoảng 12 inch tức khoảng 30 cm).\n
+        Vào năm 2002, nhà tâm lý học Richard Wiseman và đồng nghiệp tại Trường Đại học Hertfordshire (Vương quốc Liên hiệp Anh và Bắc Ireland) đã hoàn thành một nghiên cứu dài hạn LaughLab và kết luận rằng, trong thế giới động vật, vịt là biểu tượng của sự hài hước và ngớ ngẩn; ông nói: "Khi bạn muốn kể các câu chuyện cười về các loài vật, tốt nhất bạn hãy chọn hình ảnh con vịt làm đề tài". Trong thế giới giải trí, có rất nhiều nhân vật hoạt hình là một con vui tươi, ngốc nghếch như Vịt Daffy, Vịt Daisy, Vịt Donald, Vịt Ludwig Von Drake. Vịt Quacker,.... Ngoài ra, người ta còn gọi vịt là "kẻ nói nhiều" bởi vịt vốn kêu rất to và tiếng kêu cứ như đang lảm nhảm.\n
+        Vịt cũng được dùng trong thuật ngữ tin vịt để chỉ những "tin không đúng sự thật" mà báo chí truyền thông đưa ra. Nó xuất xứ từ làng báo châu Âu hồi thế kỷ 17, đưa ra những tin có ghi chú ở cuối là "NT" (tiếng Latin: non testatum: không thẩm tra, hoặc not true: không thật) để giải trí. Sau đó người ta nhận ra phát âm của "NT" là "ente" và trong tiếng Đức có nghĩa là "vịt", từ đó ra đời thuật ngữ "tin vịt", dịch lại sang tiếng Pháp là "canard".\n
+        Hình tượng vịt què (lame duck) hiện được dùng để chỉ chính khách hết quyền lực, ví dụ tổng thống đương nhiệm trong thời kỳ chuẩn bị đến ngày chuyển giao quyền lực cho tổng thống mới đã bầu. Nghĩa đen của nó thì rõ rằng vịt què không có khả năng theo kịp đàn và sẽ bị thải loại.\n
+    </string>
+    <string name="bird">
+        <b>Chim</b>\n
+        Chim (danh pháp khoa học: Aves) là tập hợp các loài động vật có xương sống, máu nóng, đi đứng bằng hai chân, có mỏ, đẻ trứng, có cánh, có lông vũ và biết bay (phần lớn). Trong lớp Chim, có hơn 10.000 loài còn tồn tại, giúp chúng trở thành lớp đa dạng nhất trong các loài động vật bốn chi.\n
+        <b>Tổng quan</b>\n
+        Lớp chim cư trú ở các hệ sinh thái khắp toàn cầu, từ vùng Bắc Cực cho tới châu Nam Cực. Các loài chim có kích thước dao động khác nhau, từ nhỏ cỡ 5 cm (như chim ruồi ong) cho tới lớn cỡ 2,7 m (như đà điểu). Các bằng chứng hóa thạch cho thấy, chim được tiến hóa từ các loài khủng long chân thú (Theropoda) trong suốt kỷ Jura, vào khoảng 150-200 triệu năm về trước, với đại diện đầu tiên được biết đến, xuất hiện từ cuối kỷ Jura là Archaeopteryx (vào khoảng 155–150 triệu năm trước). Hầu hết các nhà cổ sinh vật học đều coi chim là nhánh duy nhất của khủng long còn sống sót qua sự kiện tuyệt chủng Phấn Trắng–Cổ Cận vào xấp xỉ 65,5 triệu năm trước.\n
+        Các loài chim hiện đại mang các đặc điểm tiêu biểu như: có lông vũ, có mỏ và không răng, đẻ trứng có vỏ cứng bằng đá vôi, chỉ số trao đổi chất cao, tim có bốn ngăn, cùng với một bộ xương nhẹ, xốp nhưng chắc. Tất cả các loài chim đều có chi trước đã biển đổi thành cánh và hầu hết có thể bay, trừ những ngoại lệ như các loài thuộc bộ Chim cánh cụt, bộ Đà điểu và một số đa dạng những loài chim đặc hữu sống trên đảo. Chim cũng có hệ tiêu hóa và hô hấp độc nhất mà đáp ứng cao cho hoạt động bay. Vài loài chim, đặc biệt là quạ và vẹt, nằm trong những loài thông minh nhất của giới động vật; một số được quan sát đang chế tạo và sử dụng công cụ, nhiều loài sống thành bầy lại có thể truyền đạt những kinh nghiệm hiểu biết cho thế hệ sau.\n
+        Nhiều loài chim hàng năm thường di trú đến những nơi rất xa, cùng rất nhiều loài lại thực hiện những chuyến bay ngắn hơn và bất thường. Chim là động vật sống bầy đàn, chúng giao tiếp với nhau thông qua tiếng kêu và tiếng hót, tham gia vào những hoạt động bầy đàn như hợp tác trong việc sinh sản, săn mồi, di chuyển và tấn công chống lại kẻ thù. Phần lớn chim là những loài đơn phối ngẫu xã hội , thường vào mùa giao phối trong một thời gian nhất định. Trứng chim thường được đẻ trong tổ và ấp bởi chim bố mẹ. Hầu hết chim non sau khi nở đều có thêm một thời gian được chim bố mẹ chăm sóc.\n
+        Nhiều loài chim có tầm quan trọng đối với con người, đa phần được sử dụng làm thức ăn thông qua việc săn bắn hay chăn nuôi. Một vài loài, như phân bộ Sẻ hay bộ Vẹt, được biết đến với vai trò vật nuôi làm cảnh. Hình tượng chim xuất hiện trong tất cả các mặt của văn hóa con người, từ tôn giáo, thần thoại đến thi ca và âm nhạc phổ thông. Khoảng 120-130 loài chim đã bị tuyệt chủng do hành động con người trong thế kỷ XVII, cùng với hàng trăm loài khác sau đó. Hiện nay, có khoảng 1.200 loài đang trong tình trạng đe dọa tuyệt chủng bởi các hoạt động từ loài người, cho dù vẫn đang có những nỗ lực bảo vệ chúng.\n
+        <b>Tiến hóa và phân loại</b>\n
+        Chim được phân loại lần đầu tiên bởi Francis Willughby và John Ray, đưa ra trong tập sách Ornithologiae năm 1676 . Carolus Linnaeus sau đó đã sửa đổi công trình này vào năm 1758 và để lại hệ thống phân loại vẫn còn được sử dụng cho đến ngày nay . Trong hệ thống phân loại Linnaeus, các loài chim được phân vào lớp Aves. Việc phân loại dựa trên nguồn gốc phát sinh đã xếp Aves vào trong nhánh khủng long Theropoda (Khủng long chân thú) . Aves cùng với nhóm chị em Crocodilia (Bộ Cá sấu) là những thành viên duy nhất còn sống sót của nhánh bò sát Archosaur. Xét theo phát sinh chủng loại, Aves được xác định là tất cả các hậu duệ của tổ tiên chung gần nhất của các loài chim hiện đại và Archaeopteryx lithographica . Theo định nghĩa này, Archaeopteryx, xuất hiện từ giai đoạn Tithonia của Jura muộn (150-145 triệu năm trước), là chi chim sớm nhất được biết đến. Những luận điểm khác, bao gồm Jacques Gauthier và những người ủng hộ hệ thống PhyloCode, đã xác định Aves chỉ bao gồm các nhóm chim hiện đại, chứ không gồm hầu hết các nhóm chim chỉ được biết đến qua hóa thạch, và thay vào đó đã xếp chúng vào nhóm lớn Avialae , một phần để tránh được sự không rõ ràng về vị trí của Archaeopteryx trong giới động vật mà theo quan điểm truyền thống thường coi chúng là những khủng long chân thú.\n
+        Tất cả các loài chim hiện đại đều nằm trong phân lớp Neornithes, chia thành hai nhóm: Paleognathae, bao gồm hầu hết các loài không biết bay như đà điểu, và Neognathae đa dạng hơn, chứa tất cả những loài còn lại . Hai nhóm này thường được xếp ở cấp bậc siêu bộ , dù Livezey and Zusi đã đặt chúng ở cấp "cohort" . Tùy vào quan điểm phân loại khác nhau, số lượng loài chim còn tồn tại dao động từ 9.800 cho đến 10.050 loài .\n
+        <b>Tiến hóa sơ khai của chim</b>\n
+        Chim đã phát triển đa dạng khác nhau trong suốt thời kỳ Phấn trắng. Nhiều nhóm vẫn giữ những đặc điểm nguyên thủy (symplesiomorphy), như cánh có móng vuốt và có răng, dù đã mất đi một cách độc lập ở một số nhóm chim phía sau, bao gồm chim hiện đại (Neornithes). Trong khi những dạng ban đầu, như Archaeopteryx và Jeholornis, vẫn mang những chiếc đuôi dài và nhiều xương như tổ tiên chúng , thì chiếc đuôi của những dạng tiến hóa sau (nhánh Pygostylia) đã ngắn hơn với kiểu xương bánh lái bên trong.\n
+        Giống lớn và đa dạng đầu tiên mà các chim đuôi ngắn tiến hóa là Enantiornithes, hay "chim đảo ngược", được mang tên này bởi kết cấu xương vai của chúng đảo ngược lại so với các loài chim hiện đại. Những Enantiornithes chiếm lĩnh đa dạng các ổ sinh thái, từ những loài chim cao cẳng tìm kiếm trong cát và ăn cá cho tới những loài sống trên cây và ăn hạt cây . Nhiều loài tiến hóa sau cũng thích ứng với việc ăn cá, trong đó tiêu biểu như phân lớp Ichthyornithes ("chim cá") có hình dáng giống mòng biển. Bộ chim biển Đại Trung sinh, Hesperornithiformes, cũng trở nên thích nghi cao cho việc săn bắt cá trong môi trường biển, khi chúng mất đi khả năng bay và chủ yếu bơi lội trong nước. Mặc dù có tính chuyên hóa rất cao, Hesperornithiformes vẫn là đại diện tiêu biểu cho những họ hàng gần nhất của các loài chim hiện đại .\n
+        <b>Phát sinh chủng loài</b>\n
+        Phân loại và phát sinh chủng loài chim là vấn đề gây nhiều tranh cãi. Tác phẩm Phylogeny and Classification of Birds của Sibley và Ahlquist xuất bản năm 1990 là một công trình quan trọng trong phân loại chim , mặc dù nó thường xuyên gây tranh luận và liên tục bị sửa đổi. Phần lớn chứng cứ dường như gợi ý rằng việc gán các bộ chim là khá chính xác , nhưng các nhà khoa học thì không đồng thuận về các mối quan hệ giữa chính các bộ; các chứng cứ từ giải phẫu học chim hiện đại, hóa thạch và phân tích DNA tất cả đều nhằm mục đích giải quyết vấn đề này, nhưng sự đồng thuận cao thì chưa thấy có. Gần đây hơn, các chứng cứ mới từ hóa thạch và phân tích phân tử ngày càng đưa ra bức tranh rõ ràng hơn về lịch sử tiến hóa của các bộ chim hiện đại. Các nỗ lực gần đây nhất được vẽ ra như hai biểu đồ dưới đây, tất cả đều dựa trên các dữ liệu lấy trình tự bộ gen của các loài đại diện tiêu biểu nhất cho mỗi bộ, với công trình năm 2014 là 48 loài , và công trình năm 2015 là 198 loài .\n
+        Biểu đồ nhánh thứ nhất về các mối quan hệ phát sinh chủng loài chim hiện đại dựa theo Jarvis E.D. (2014)với một số nhánh đặt tên theo bài báo của Yury T. (2013).\n
+    </string>
+    <string name="large_text">
+        "Material is the metaphor.\n\n"
+
+        "A material metaphor is the unifying theory of a rationalized space and a system of motion."
+        "The material is grounded in tactile reality, inspired by the study of paper and ink, yet "
+        "technologically advanced and open to imagination and magic.\n"
+        "Surfaces and edges of the material provide visual cues that are grounded in reality. The "
+        "use of familiar tactile attributes helps users quickly understand affordances. Yet the "
+        "flexibility of the material creates new affordances that supercede those in the physical "
+        "world, without breaking the rules of physics.\n"
+        "The fundamentals of light, surface, and movement are key to conveying how objects move, "
+        "interact, and exist in space and in relation to each other. Realistic lighting shows "
+        "seams, divides space, and indicates moving parts.\n\n"
+
+        "Bold, graphic, intentional.\n\n"
+
+        "The foundational elements of print based design typography, grids, space, scale, color, "
+        "and use of imagery guide visual treatments. These elements do far more than please the "
+        "eye. They create hierarchy, meaning, and focus. Deliberate color choices, edge to edge "
+        "imagery, large scale typography, and intentional white space create a bold and graphic "
+        "interface that immerse the user in the experience.\n"
+        "An emphasis on user actions makes core functionality immediately apparent and provides "
+        "waypoints for the user.\n\n"
+
+        "Motion provides meaning.\n\n"
+
+        "Motion respects and reinforces the user as the prime mover. Primary user actions are "
+        "inflection points that initiate motion, transforming the whole design.\n"
+        "All action takes place in a single environment. Objects are presented to the user without "
+        "breaking the continuity of experience even as they transform and reorganize.\n"
+        "Motion is meaningful and appropriate, serving to focus attention and maintain continuity. "
+        "Feedback is subtle yet clear. Transitions are efﬁcient yet coherent.\n\n"
+
+        "3D world.\n\n"
+
+        "The material environment is a 3D space, which means all objects have x, y, and z "
+        "dimensions. The z-axis is perpendicularly aligned to the plane of the display, with the "
+        "positive z-axis extending towards the viewer. Every sheet of material occupies a single "
+        "position along the z-axis and has a standard 1dp thickness.\n"
+        "On the web, the z-axis is used for layering and not for perspective. The 3D world is "
+        "emulated by manipulating the y-axis.\n\n"
+
+        "Light and shadow.\n\n"
+
+        "Within the material environment, virtual lights illuminate the scene. Key lights create "
+        "directional shadows, while ambient light creates soft shadows from all angles.\n"
+        "Shadows in the material environment are cast by these two light sources. In Android "
+        "development, shadows occur when light sources are blocked by sheets of material at "
+        "various positions along the z-axis. On the web, shadows are depicted by manipulating the "
+        "y-axis only. The following example shows the card with a height of 6dp.\n\n"
+
+        "Resting elevation.\n\n"
+
+        "All material objects, regardless of size, have a resting elevation, or default elevation "
+        "that does not change. If an object changes elevation, it should return to its resting "
+        "elevation as soon as possible.\n\n"
+
+        "Component elevations.\n\n"
+
+        "The resting elevation for a component type is consistent across apps (e.g., FAB elevation "
+        "does not vary from 6dp in one app to 16dp in another app).\n"
+        "Components may have different resting elevations across platforms, depending on the depth "
+        "of the environment (e.g., TV has a greater depth than mobile or desktop).\n\n"
+
+        "Responsive elevation and dynamic elevation offsets.\n\n"
+
+        "Some component types have responsive elevation, meaning they change elevation in response "
+        "to user input (e.g., normal, focused, and pressed) or system events. These elevation "
+        "changes are consistently implemented using dynamic elevation offsets.\n"
+        "Dynamic elevation offsets are the goal elevation that a component moves towards, relative "
+        "to the component’s resting state. They ensure that elevation changes are consistent "
+        "across actions and component types. For example, all components that lift on press have "
+        "the same elevation change relative to their resting elevation.\n"
+        "Once the input event is completed or cancelled, the component will return to its resting "
+        "elevation.\n\n"
+
+        "Avoiding elevation interference.\n\n"
+
+        "Components with responsive elevations may encounter other components as they move between "
+        "their resting elevations and dynamic elevation offsets. Because material cannot pass "
+        "through other material, components avoid interfering with one another any number of ways, "
+        "whether on a per component basis or using the entire app layout.\n"
+        "On a component level, components can move or be removed before they cause interference. "
+        "For example, a floating action button (FAB) can disappear or move off screen before a "
+        "user picks up a card, or it can move if a snackbar appears.\n"
+        "On the layout level, design your app layout to minimize opportunities for interference. "
+        "For example, position the FAB to one side of stream of a cards so the FAB won’t interfere "
+        "when a user tries to pick up one of cards.\n\n"
+    </string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

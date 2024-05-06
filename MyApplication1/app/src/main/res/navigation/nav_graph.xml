@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/FirstFragment">
+
+    <fragment
+        android:id="@+id/FirstFragment"
+        android:name="com.example.myapplication1.elephant"
+        android:label="@string/first_fragment_label"
+        tools:layout="@layout/fragment_elephant">
+
+        <action
+            android:id="@+id/action_FirstFragment_to_SecondFragment"
+            app:destination="@id/SecondFragment"
+            app:enterAnim="@android:anim/slide_in_left" />
+        <action
+            android:id="@+id/action_FirstFragment_to_dolphin"
+            app:destination="@id/dolphin"
+            app:enterAnim="@android:anim/slide_in_left" />
+        <action
+            android:id="@+id/action_FirstFragment_to_bird2"
+            app:destination="@id/bird2"
+            app:enterAnim="@android:anim/slide_in_left" />
+        <action
+            android:id="@+id/action_FirstFragment_to_dog"
+            app:destination="@id/dog"
+            app:enterAnim="@android:anim/slide_in_left" />
+        <action
+            android:id="@+id/action_FirstFragment_to_ladybug"
+            app:destination="@id/ladybug"
+            app:enterAnim="@android:anim/slide_in_left" />
+        <action
+            android:id="@+id/action_FirstFragment_to_pig"
+            app:destination="@id/pig"
+            app:enterAnim="@anim/alpha"
+            app:exitAnim="@anim/alpha"
+            app:popEnterAnim="@anim/alpha"
+            app:popExitAnim="@anim/alpha" />
+        <action
+            android:id="@+id/action_FirstFragment_to_turtle"
+            app:destination="@id/turtle"
+            app:enterAnim="@android:anim/slide_in_left" />
+        <action
+            android:id="@+id/action_FirstFragment_to_elephant1"
+            app:destination="@id/elephant1"
+            app:enterAnim="@android:anim/slide_in_left" />
+        <action
+            android:id="@+id/action_FirstFragment_to_duck"
+            app:destination="@id/duck"
+            app:enterAnim="@android:anim/slide_in_left" />
+    </fragment>
+    <fragment
+        android:id="@+id/SecondFragment"
+        android:name="com.example.myapplication1.dragonbutterfly"
+        android:label="@string/fragment_dragonbutterfly"
+        tools:layout="@layout/fragment_dragonbutterfly">
+
+        <action
+            android:id="@+id/action_SecondFragment_to_FirstFragment"
+            app:destination="@id/FirstFragment"
+            app:exitAnim="@android:anim/slide_out_right" />
+    </fragment>
+    <fragment
+        android:id="@+id/bird2"
+        android:name="com.example.myapplication1.bird"
+        android:label="@string/fragment_bird2"
+        tools:layout="@layout/fragment_bird">
+        <action
+            android:id="@+id/action_bird2_to_FirstFragment"
+            app:destination="@id/FirstFragment"
+            app:exitAnim="@android:anim/slide_out_right" />
+    </fragment>
+    <fragment
+        android:id="@+id/dog"
+        android:name="com.example.myapplication1.dog"
+        android:label="@string/fragment_dog"
+        tools:layout="@layout/fragment_dog">
+        <action
+            android:id="@+id/action_dog_to_FirstFragment"
+            app:destination="@id/FirstFragment"
+            app:exitAnim="@android:anim/slide_out_right" />
+    </fragment>
+    <fragment
+        android:id="@+id/dolphin"
+        android:name="com.example.myapplication1.dolphin"
+        android:label="@string/fragment_dolphin"
+        tools:layout="@layout/fragment_dolphin">
+        <action
+            android:id="@+id/action_dolphin_to_FirstFragment"
+            app:destination="@id/FirstFragment"
+            app:exitAnim="@android:anim/slide_out_right" />
+    </fragment>
+    <fragment
+        android:id="@+id/duck"
+        android:name="com.example.myapplication1.duck"
+        android:label="@string/fragment_duck"
+        tools:layout="@layout/fragment_duck">
+        <action
+            android:id="@+id/action_duck_to_FirstFragment"
+            app:destination="@id/FirstFragment"
+            app:exitAnim="@android:anim/slide_out_right" />
+    </fragment>
+    <fragment
+        android:id="@+id/ladybug"
+        android:name="com.example.myapplication1.ladybug"
+        android:label="@string/fragment_ladybug"
+        tools:layout="@layout/fragment_ladybug">
+        <action
+            android:id="@+id/action_ladybug_to_FirstFragment"
+            app:destination="@id/FirstFragment"
+            app:exitAnim="@android:anim/slide_out_right" />
+    </fragment>
+    <fragment
+        android:id="@+id/pig"
+        android:name="com.example.myapplication1.pig"
+        android:label="@string/fragment_pig"
+        tools:layout="@layout/fragment_pig">
+        <action
+            android:id="@+id/action_pig_to_FirstFragment"
+            app:destination="@id/FirstFragment"
+            app:exitAnim="@android:anim/slide_out_right" />
+    </fragment>
+    <fragment
+        android:id="@+id/turtle"
+        android:name="com.example.myapplication1.turtle"
+        android:label="@string/fragment_turtle"
+        tools:layout="@layout/fragment_turtle">
+        <action
+            android:id="@+id/action_turtle_to_FirstFragment"
+            app:destination="@id/FirstFragment"
+            app:exitAnim="@android:anim/slide_out_right" />
+    </fragment>
+    <fragment
+        android:id="@+id/elephant1"
+        android:name="com.example.myapplication1.elephant1"
+        android:label="@string/fragment_elephant1"
+        tools:layout="@layout/fragment_elephant1">
+        <action
+            android:id="@+id/action_elephant1_to_FirstFragment"
+            app:destination="@id/FirstFragment"
+            app:exitAnim="@android:anim/slide_out_right" />
+    </fragment>
+</navigation>
